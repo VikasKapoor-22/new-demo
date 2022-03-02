@@ -1,0 +1,396 @@
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    list-style-type: none;
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+
+
+.container {
+    max-width: 1320px;
+    margin: 0 auto;
+}
+
+/* section one start */
+.c-pointer {
+    cursor: pointer;
+}
+
+.h-bg-color {
+    background-color: black;
+}
+
+.p-22 {
+    padding: 22px 0px;
+}
+
+/* section one end */
+/* section two start */
+.heading-f-family {
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 96px;
+    line-height: 96px;
+    color: whitesmoke;
+    text-align: center;
+}
+
+.content-p {
+    padding: 30px 70px;
+}
+
+.c-blue {
+    color: blue;
+}
+
+.hero-section-content-family {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 152.69%;
+    color: whitesmoke;
+    text-shadow: 2px 2px whitesmoke;
+}
+
+.max-w-899 {
+    max-width: 899px;
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.get-started-family {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 22px;
+    line-height: 26px;
+    color: #FFFFFF;
+}
+
+.get-s-p {
+    padding: 15px 30px;
+    background-color: blue;
+    border-radius: 74px;
+}
+
+.t-align {
+    text-align: center;
+    padding-top: 47px;
+}
+
+.min-h-100vh {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+}
+
+/* section two end */
+/* section three start */
+.dot-img {
+    margin: 0 auto;
+    display: block;
+    padding-bottom: 23px;
+}
+
+.section-three-bg-color {
+    background: #F6F8FC;
+}
+
+.heding-content-f {
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+}
+
+.three-s-content-family {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 179.19%;
+    color: #252930;
+    opacity: 0.8;
+    max-width: 800px;
+
+}
+
+.d-flex {
+    display: flex;
+}
+
+.align-items {
+    align-items: center;
+
+}
+
+.justify-content {
+    justify-content: space-between;
+}
+
+.p-60 {
+    padding: 90px 0px;
+}
+
+.p-relative {
+    position: relative;
+}
+
+.p-absolute {
+    position: absolute;
+    right: 0;
+    top: -460px;
+    z-index: -1;
+}
+
+/* section three end */
+/* section four start */
+.content-application-family {
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+    color: #252930;
+}
+
+.mb-25 {
+    margin-bottom: 25px;
+}
+
+.mobile-content-family {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 179.19%;
+    color: #252930;
+    opacity: 0.8;
+}
+
+.p-60 {
+    /* margin-top: 50px; */
+    /* padding-top: 60px; */
+}
+
+/* section four end */
+/* section five start */
+.m-w-100 {
+    /* max-width: 100%; */
+}
+
+.p-devlopment-family {
+    font-family: 'Josefin Sans', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+
+
+}
+
+.mob-content-family {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 179.19%;
+    color: #252930;
+    opacity: 0.8;
+}
+
+/* section five end */
+/* section six start */
+.a-devlopment-family {
+    font-family: 'Josefin Sans',
+        sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 48px;
+    line-height: 48px;
+}
+
+.j-content-family {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 179.19%;
+    color: #252930;
+    opacity: 0.8;
+}
+
+/* section six end */
+/* section seven start */
+.footer-section-bg-color {
+    margin-top: 50px;
+    background: black;
+}
+
+.footer-content-family {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 166.19%;
+    color: #FFFFFF;
+    opacity: 0.8;
+    max-width: 339px;
+}
+
+.pt-17 {
+    padding-top: 17px;
+}
+
+.termnl-family-content {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 166.19%;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.ml-17 {
+    margin-left: 17px;
+}
+
+.p-54 {
+    padding: 54px 0px;
+}
+
+.footer-bg-color {
+    background: rgb(17, 13, 13);
+
+}
+
+.copyright-family {
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 166.19%;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.p-20 {
+    padding: 20px 0px;
+}
+
+/* section seven enf */
+/* media quary section start */
+@media only screen and (max-width:1024px) {
+    .container {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+    .f-direction-lg-columb {
+        flex-direction: column;
+    }
+
+    .pt-lg-20 {
+        padding-top: 20px;
+    }
+
+    .d-lg-none {
+        display: none;
+    }
+
+    .min-h-lg-70vh {
+        min-height: 70vh;
+    }
+
+}
+
+@media only screen and (max-width: 992px) {
+    .container {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+    .f-direction-lg-col {
+        flex-direction: column;
+    }
+
+    .f-direction-lg-col-reverse {
+        flex-direction: column-reverse;
+    }
+
+
+
+    .t-align-lg-center {
+        text-align: center;
+    }
+
+}
+
+@media only screen and (max-width:768px) {
+    .container {
+        max-width: 90%;
+        margin: 0 auto;
+    }
+
+    .max-w-md-80 {
+        max-width: 80%;
+    }
+
+    .m-w-md-100 {
+        max-width: 100%;
+    }
+
+    .f-direction-md-col {
+        flex-direction: column;
+    }
+
+    .m-auto-md {
+        display: block;
+        margin: 0 auto;
+    }
+
+    .t-align-md-center {
+        text-align: center;
+    }
+
+    .pb-md-20 {
+        padding-bottom: 20px;
+    }
+
+    .pt-md-50 {
+        padding-top: 50px;
+    }
+
+    .max-w-md-80 {
+        max-width: 80%;
+    }
+
+    .p-md-30 {
+        padding: 30px 0px;
+    }
+}
+
+@media only screen and (max-width:425px) {
+    .container {
+        max-width: 80%;
+        margin: 0 auto;
+    }
+
+    .f-size-sm-70 {
+        font-size: 45px;
+    }
+
+
+}
+
+/* media quary section end */
